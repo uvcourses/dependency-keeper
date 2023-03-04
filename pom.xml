@@ -10,13 +10,20 @@
 	</parent>
 	<groupId>com.learn</groupId>
 	<artifactId>dependency-keeper</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>dependency-keeper</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.5</spring-cloud.version>
 	</properties>
+
+	<scm>
+		<connection>https://github.com/uvcourses/dependency-keeper.git</connection>
+		<developerConnection>scm:git:ssh://github.com/uvcourses/dependency-keeper.git</developerConnection>
+		<url>https://github.com/uvcourses/dependency-keeper</url>
+	</scm>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
