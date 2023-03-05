@@ -20,10 +20,9 @@
 
 	<scm>
 		<connection>https://github.com/uvcourses/dependency-keeper.git</connection>
-		<developerConnection>git@github.com:uvcourses/dependency-keeper.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:uvcourses/dependency-keeper.git</developerConnection>
 		<url>https://github.com/uvcourses/dependency-keeper</url>
 	</scm>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
