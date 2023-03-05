@@ -20,7 +20,7 @@
 
 	<scm>
 		<connection>https://github.com/uvcourses/dependency-keeper.git</connection>
-		<developerConnection>git@github.com:uvcourses/dependency-keeper.git</developerConnection>
+		<developerConnection>scm:git:ssh://github.com/uvcourses/dependency-keeper.git</developerConnection>
 		<url>https://github.com/uvcourses/dependency-keeper</url>
 	</scm>
 
